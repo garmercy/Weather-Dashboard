@@ -14,7 +14,7 @@ The main goal of this project it's build a weather dashboard that will run in th
 
 ## User Story :snowman:
 
-* _AS A traveler
+_AS A traveler
 <br>I WANT to see the weather outlook for multiple cities
 <br>SO THAT I can plan a trip accordingly_
 
