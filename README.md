@@ -1,7 +1,6 @@
 # :sunny: Weather Dashboard :umbrella:
 
 The main goal of this project it's build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS. 
-
 <br>The weather dashboard will contain all the cities weather information and will be used APIs in this project to get the weather information.
 
 ## Link to the website
