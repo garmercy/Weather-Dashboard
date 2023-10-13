@@ -9,6 +9,8 @@ The main goal of this project it's build a weather dashboard that will run in th
 ## How is it looks? :zap:
 
 ### Desktop
+![weather-dashboard](https://github.com/garmercy/Weather-Dashboard/assets/138730100/7dace98a-c851-4a4e-b14d-5421cca03ea1)
+
 ### Mobile
 ### Search
 
