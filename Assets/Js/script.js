@@ -1,0 +1,8 @@
+id="inputSearch"
+id="btnSearch"
+id="cityHistory" 
+id="containerCityWeather"
+id="temperature"
+id="humidity"
+id="wind"
+id="forecastList"

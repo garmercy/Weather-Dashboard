@@ -11,7 +11,6 @@
   body {
     background-image: url(https://images.unsplash.com/photo-1584267385494-9fdd9a71ad75?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80);
     background-size: cover;
-    background-color: rgba(133, 30, 14, 0.527);
     height: 1000px;
     background-position: center;
     background-repeat: no-repeat;
@@ -23,9 +22,12 @@
   }
   .container {
     border: 2px solid rgb(178, 35, 35);
+    border-radius: 10px;
+    
   }
   .row {
-    background-color: #f8f9fa;
+    background-color: #82b2e3;
+    border-radius: 10px;
   }
   .form-inline {
     padding-top: 5px;
@@ -38,31 +40,30 @@
     line-break: normal;
   
   }
-  #cityViewed {
+  #citySearched {
     text-align: center;
     justify-content: center;
+    background-color: blueviolet;
   }
-  h1,
-  h2,
-  h3,
-  h4 {
-    font-weight: normal;
+  h1,h2,h3,h4 {
+    color: black;
   }
-  p {
+
+  /* p {
     font-weight: 500;
     text-align: center;
-  }
-  #temp,
-  #hum,
-  #windy,
-  #uv {
+  } */
+
+  #temperature, #humidity, #wind {
     text-align: left;
   }
-  #forecast {
+
+  #forecastList{
     margin-top: 20px;
   }
-  
-  .btn {
+
+  .btn{
     margin-left: auto;
   }
+
   
