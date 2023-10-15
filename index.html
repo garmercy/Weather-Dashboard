@@ -34,7 +34,7 @@
       <div class="container">
         <div class="row">
           <!-- The next div contains: search title, and a form with an input and a search button  -->
-          <div class="col col-md-3 card card-body">
+          <div class="col col-md-3 card card-body" id="containerSearch">
             <br />
             <h3>Search for a city:</h3>
             <form class="form-inline mt-2 mt-md-0">
@@ -43,7 +43,6 @@
                 type="text"
                 placeholder="Enter a City Name"
                 class="form-control"
-                aria-label="Search"
               />
               <br />
               <div class="d-grid gap-2 pt-1 mt-1">
@@ -56,6 +55,9 @@
                </div>
                <br />
             </form>
+            <div class="error">
+              <p>Incorrect city name</p>
+            </div>
             <!-- The next div displays user searched cities -->
             <div id="cityHistory" class="citySearched"></div>
           </div>
@@ -63,13 +65,14 @@
           <div class="col col-md-9">
             <div class="row" id="containerCityWeather">
               <div class="col-lg-12">
-                <h2 class="current-city"></h2>
+                <h2 id="city"></h2>
+                <img class="weather-icon">
                 <p id="temperature"></p>
                 <p id="humidity"></p>
                 <p id="wind"></p>
               </div>
             </div>
-            <div class="row">
+            <div class="row" id="containerForecast">
               <div class="col">
                 <h2>5-Day Forecast</h2>
               </div>
