@@ -7,13 +7,7 @@ The main goal of this project it's build a weather dashboard that will run in th
 [Weather-Dashboard]()
 
 ## How is it looks? :zap:
-
-### Desktop
-![weather-dashboard](https://github.com/garmercy/Weather-Dashboard/assets/138730100/7dace98a-c851-4a4e-b14d-5421cca03ea1)
-
-### Mobile
-### Search
-
+![5656](https://github.com/garmercy/Weather-Dashboard/assets/138730100/f3fead44-d8e5-48c3-82b7-22d1642db42d)
 ## User Story :snowman:
 
 _AS A traveler
