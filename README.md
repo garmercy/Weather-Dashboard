@@ -4,7 +4,7 @@ The main goal of this project it's build a weather dashboard that will run in th
 <br>The weather dashboard will contain all the cities weather information and will be used APIs in this project to get the weather information.
 
 ## Link to the website
-[Weather-Dashboard]()
+[Weather-Dashboard](https://garmercy.github.io/Weather-Dashboard/)
 
 ## How is it looks? :zap:
 ![5656](https://github.com/garmercy/Weather-Dashboard/assets/138730100/f3fead44-d8e5-48c3-82b7-22d1642db42d)
